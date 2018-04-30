@@ -1,5 +1,5 @@
 Johnny Gaddis
-CSCI 305 Prolog Lab 2
+CSCI 305 Prolog Lab
 
 1.  X = 'King George VI'.
 
@@ -46,15 +46,15 @@ CSCI 305 Prolog Lab 2
 
 15. X = 'King George V'.
 
-16. I like the way prolog parses data fast and accurately. It seems useful for large database files.
+16. I like the way prolog parses data fast and accurately. It seems useful for large database files. I also like how the extraction of data can functional.
 
-17. The syntax in prolog makes me feel sad. I don't like the usage of the ? and the :- in the code and execution.
+17. The syntax in prolog makes my head hurt. I don't like the usage of the ? and the :- in the code and execution. I don't think they put a lot of effort into matching what everyone wants out of a language.
 
-18. 
+18. I liked the practical aspect of finding information from a large data file using functions and the history of British royalty added some extra entertainment.
 
-19.
+19. 2 hours.
 
-20.
+20. I would use this language again for large database systems.
 
 EC1.  X = 'Viscount Linley' ;
       X = 'Lady Sarah Chatto'.

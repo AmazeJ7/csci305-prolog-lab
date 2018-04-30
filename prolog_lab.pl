@@ -1,5 +1,5 @@
 % Johnny Gaddis
-% CSCI 305 Prolog Lab 2
+% CSCI 305 Prolog Lab
 
 % Parents
 mother(M,C):- parent(M,C), female(M).
